@@ -1,7 +1,7 @@
 from question import question
 
 question_prompts = [
-    "How far to the Ridgeline?\n(a) 1 mile\n(b) 3 feet\n(c) Forever\n(d) Doesn't matter\n\n",
+    "How far to the Ridgeline?\n(a) 1 mile\n(b) 3 feet\n(c) Forever\n(d) Doesn't matter how far\n\n",
     "How long does it take to get to the Ridgeline?\n(a) Forever\n(b) A blink\n(c) What is time?\n\n",
     "How many sharp things are at the Ridgeline?\n(a) All of them\n(b) 5\n(c) None, all dull\n\n"
 ]
